@@ -1,4 +1,4 @@
-# Project 3: Sub-Reddit NLP Classification (The_Donald vs. Politics)
+# Sub-Reddit Classification using NLP (The_Donald vs. Politics)
 
 ### Contents:
 - [Problem Statement](#Problem-Statement)
